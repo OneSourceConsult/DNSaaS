@@ -26,7 +26,7 @@ Check Detailed instructions at  [github](https://github.com/OneSourceConsult/DNS
 
 
 ##Copyright
-Copyright (c) 2014 OneSource Consultoria Informatica, Lda. [🔗](http://www.onesource.pt)
+Copyright (c) 2015 OneSource Consultoria Informatica, Lda. [🔗](http://www.onesource.pt)
 
 This project has been developed in the scope of the MobileCloud Networking project[🔗](http://mobile-cloud-networking.eu) by Cláudio Marques, Bruno Sousa and Luis Cordeiro.
 
